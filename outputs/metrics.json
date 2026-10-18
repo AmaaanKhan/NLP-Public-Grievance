@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9585462551487135,
+  "macro_f1": 0.8822222887454636,
+  "weighted_f1": 0.9748995765612195,
+  "training_records": 984712,
+  "test_records": 246178,
+  "categories": 32
+}

@@ -1,0 +1,207 @@
+{
+  "Advertisement": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1082.0
+  },
+  "BBMP Election Branch": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27.0
+  },
+  "CORONA COVID19": {
+    "precision": 1.0,
+    "recall": 0.5061124694376528,
+    "f1-score": 0.672077922077922,
+    "support": 409.0
+  },
+  "Call Center": {
+    "precision": 1.0,
+    "recall": 0.5531914893617021,
+    "f1-score": 0.7123287671232876,
+    "support": 47.0
+  },
+  "E khata / Khata services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4998.0
+  },
+  "Education": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26.0
+  },
+  "Electrical": {
+    "precision": 0.9999767054520889,
+    "recall": 1.0,
+    "f1-score": 0.9999883525903839,
+    "support": 85855.0
+  },
+  "Estate": {
+    "precision": 1.0,
+    "recall": 0.2835820895522388,
+    "f1-score": 0.4418604651162791,
+    "support": 67.0
+  },
+  "Forest": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11554.0
+  },
+  "Health Dept": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8456.0
+  },
+  "Indira Canteen": {
+    "precision": 1.0,
+    "recall": 0.4578313253012048,
+    "f1-score": 0.628099173553719,
+    "support": 166.0
+  },
+  "Information Technology": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 71.0
+  },
+  "Lakes": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 638.0
+  },
+  "Major Roads": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Markets": {
+    "precision": 0.9420118343195266,
+    "recall": 1.0,
+    "f1-score": 0.9701401584399756,
+    "support": 796.0
+  },
+  "Optical Fiber Cables (OFC)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 121.0
+  },
+  "Others": {
+    "precision": 0.917255297679112,
+    "recall": 1.0,
+    "f1-score": 0.9568421052631579,
+    "support": 2727.0
+  },
+  "Parks and Play grounds": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1221.0
+  },
+  "Plastic": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 76.0
+  },
+  "Projects Central": {
+    "precision": 0.006662628709872804,
+    "recall": 1.0,
+    "f1-score": 0.013237063778580024,
+    "support": 66.0
+  },
+  "Property Tax services": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 69.0
+  },
+  "Revenue Department": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1687.0
+  },
+  "Road Infrastructure": {
+    "precision": 1.0,
+    "recall": 0.9997521685254027,
+    "f1-score": 0.9998760689056885,
+    "support": 4035.0
+  },
+  "Road Maintenance(Engg)": {
+    "precision": 1.0,
+    "recall": 0.7196330902461258,
+    "f1-score": 0.8369612033263758,
+    "support": 35104.0
+  },
+  "Sanitation": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 714.0
+  },
+  "Solid Waste (Garbage) Related": {
+    "precision": 0.999986161084971,
+    "recall": 1.0,
+    "f1-score": 0.9999930804946062,
+    "support": 72259.0
+  },
+  "Storm  Water Drain(SWD)": {
+    "precision": 1.0,
+    "recall": 0.9994179278230501,
+    "f1-score": 0.9997088791848617,
+    "support": 1718.0
+  },
+  "Town Planning": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1323.0
+  },
+  "Traffic Engineer Cell (TEC)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 201.0
+  },
+  "Water Crisis": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 229.0
+  },
+  "Welfare Schemes": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 45.0
+  },
+  "veterinary": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10391.0
+  },
+  "accuracy": 0.9585462551487135,
+  "macro avg": {
+    "precision": 0.9333091446014241,
+    "recall": 0.8912350175077306,
+    "f1-score": 0.8822222887454636,
+    "support": 246178.0
+  },
+  "weighted avg": {
+    "precision": 0.9986174085857069,
+    "recall": 0.9585462551487135,
+    "f1-score": 0.9748995765612195,
+    "support": 246178.0
+  }
+}
